@@ -24,4 +24,4 @@ It contains the specifications of a common TypeScript project to reduce boilerpl
 
 For more details, take a look at this [script](https://gist.github.com/airglow923/15b71359a62f262167d38de8f59269f1), which generates these files.
 
-To keep up to date with dependencies, please do not fork this repository but use the script above.
+To keep up to date with dependencies, please do not fork this repository but use the script instead.
