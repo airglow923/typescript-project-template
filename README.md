@@ -4,7 +4,7 @@
 
 ## What is it about?
 
-It contains the implementation of a common TypeScript project to reduce boilerplate commands and configurations (`npm init`, `npx tsconfig.json`, etc.).
+It contains the specifications of a common TypeScript project to reduce boilerplate commands and configurations (`npm init`, `npx tsconfig.json`, etc.).
 
 ### Dependencies
 
@@ -14,7 +14,7 @@ It contains the implementation of a common TypeScript project to reduce boilerpl
 - [npm](https://www.npmjs.com/)
 - [jq](https://stedolan.github.io/jq/)
 
-#### npm dependencies
+#### `npm` dependencies
 
 - [eslint](https://eslint.org)
 - [typescript](https://www.typescriptlang.org)
