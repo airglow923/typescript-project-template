@@ -4,7 +4,7 @@
 
 ## What is it about?
 
-It contains the implementation of a common TypeScript project to reduce boilerplate commands (`npm init`, `npx tsconfig.json`, etc.).
+It contains the implementation of a common TypeScript project to reduce boilerplate commands and configurations (`npm init`, `npx tsconfig.json`, etc.).
 
 ### Dependencies
 
@@ -23,3 +23,5 @@ It contains the implementation of a common TypeScript project to reduce boilerpl
 - [nodemon](https://nodemon.io/)
 
 For more details, take a look at this [script](https://gist.github.com/airglow923/15b71359a62f262167d38de8f59269f1), which generates these files.
+
+To keep up to date with dependencies, please do not fork this repository but use the script above.
