@@ -4,7 +4,7 @@
 
 ## What is it about?
 
-It contains the implementation of a common TypeScript project to reduce boilerplate commands (`npm init', 'npxtsconfig.json', etc.).
+It contains the implementation of a common TypeScript project to reduce boilerplate commands (`npm init', 'npx tsconfig.json', etc.).
 
 ### Dependencies
 
